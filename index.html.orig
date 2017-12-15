@@ -25,8 +25,11 @@
     <span class="psw">Forgot <a href="#">password?</a></span>
   </div>
 </form>
-seccion testimonios
+<<<<<<< HEAD
 seccion noticias
+=======
+seccion testimonios
+>>>>>>> login
 
 </body>
 </html>
